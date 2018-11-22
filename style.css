@@ -2,7 +2,8 @@ html, body {
 	font-family: Lato;
 	font-weight: 300;
 	text-rendering: optimizeLegibility;
-	overflow-x: hidden; 
+	overflow-x: hidden;
+	position:relative
 }
 
 .flow {
