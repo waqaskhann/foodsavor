@@ -7,7 +7,7 @@ html, body {
 }
 
 .flow {
-	overflow-x: hidden;
+	overflow: hidden;
 }
 
 header {
