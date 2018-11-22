@@ -1,5 +1,9 @@
 /*DESKTOPS*/
 @media only screen and (max-width: 1200px) {
+	body {
+	overflow-x: hidden; 
+	}
+	
 	.header-text {
 	padding: 0 2%;
 	margin-top: 25%;
@@ -19,6 +23,10 @@
 
 /*SMALL DESKTOPS/BIG TABLETS*/
 @media only screen and (max-width: 992px) {
+	body {
+	overflow-x: hidden; 
+	}
+	
 	.header-text {
 	padding: 0 4%;
 	margin-top: 30%;
@@ -38,6 +46,10 @@
 
 /*SMALL TABLETS*/
 @media only screen and (max-width: 768px) {
+	body {
+	overflow-x: hidden; 
+	}
+
 	.header-text {
 	padding: 0 8%;
 	margin-top: 30%;
@@ -100,6 +112,10 @@
 
 /*MOBILE PHONES*/
 @media only screen and (max-width: 576px) {
+	body {
+	overflow-x: hidden; 
+	}
+
 	.header-text {
 	padding: 0 12%;
 	margin-top: 50%;
